@@ -4,6 +4,7 @@ A python script for doing ping testing. Useful if your internet keeps dropping b
 Written by Gavin Underdown, available under the GNU GPL v3 (or later)
 
 Usage: 
+
 Download script 
 Add in your gateway to the source code (optional)
 Execute script `./pingtest.py`
