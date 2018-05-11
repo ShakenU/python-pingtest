@@ -8,6 +8,7 @@ Usage:
 Download script 
 
 Add in your gateway to the source code (optional)
+
 Execute script `./pingtest.py`
 
 Program logs failures (with date and time information) to `~/ping_log.txt`
